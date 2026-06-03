@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.body-index {
+    background-image: url(assets/pano-de-fundo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.h1-index {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 196, 35);
+}
+
+.p-index {
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 196, 0);
+    background-color: rgba(1, 1, 165, 0.432);
+}
